@@ -46,3 +46,48 @@ public class saloon {
       s5.show();
 	}
 }
+
+/*  output :  
+
+Id :110
+Name :Balk
+Visited for :Haircut
+Total Bill :1000
+Staff attended :Rave
+Progress :Completed
+
+Id :111
+Name :Chintz
+Visited for :Massage
+Total Bill :700
+Staff attended :Sail
+Progress :Completed
+
+Id :112
+Name :Ram
+Visited for :Tan Removal
+Total Bill :2000
+Staff attended :Syria
+Progress :Completed
+
+Id :113
+Name :Main
+Visited for :Face pack
+Total Bill :1500
+Staff attended :Rag
+Progress :Completed
+
+Id :114
+Name :Ram
+Visited for :Haircut
+Total Bill :1000
+Staff attended :sail
+Progress :Completed
+
+Id :115
+Name :Sam
+Visited for :Massage
+Total Bill :700
+Staff attended :Ram
+Progress :Completed    */
+
